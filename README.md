@@ -1,6 +1,6 @@
 
 Frames
 ======
-Android Dashboard.
+App Dashboard.
 
 
